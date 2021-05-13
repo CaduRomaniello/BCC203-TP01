@@ -1,4 +1,4 @@
-# Trabalho Prático 1 - BCC203
+# Trabalho Prático 1 - BCC203 (EDII)
 ---
 ### **Autores**:
 * Carlos Eduardo Gonzaga Romaniello de Souza
