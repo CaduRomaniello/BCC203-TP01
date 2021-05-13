@@ -3,11 +3,6 @@
 ### **Autores**:
 * Carlos Eduardo Gonzaga Romaniello de Souza
 * Vinicius Gabriel Angelozzi Verona de Resende
-
----
-
-### **OBSERVAÇÕES**
-Nesse repositório não estão presentes os diretórios `output`, `graficos` e `estatisticas` devido a quantidade de arquivos presentes nessas pastas.
   
 ---
 ### **Requisitos**
