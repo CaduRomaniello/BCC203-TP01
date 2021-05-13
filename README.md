@@ -3,6 +3,10 @@
 ### **Autores**:
 * Carlos Eduardo Gonzaga Romaniello de Souza
 * Vinicius Gabriel Angelozzi Verona de Resende
+
+---
+### **Sobre**:
+Esse trabalho tem como objetivo analisar o desempenho de algoritmos de pesquisa externa.
   
 ---
 ### **Requisitos**
